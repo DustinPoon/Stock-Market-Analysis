@@ -1,6 +1,6 @@
 # StockCal
 
-This is a stock analyizer just for fun :)
+This is a stock analyizer just for fun :) n/
 Scrapes Yahoo finance -> use stock code from yahoo
 visualizes them 
 
